@@ -1,1 +1,1 @@
-# django-twitter2
+# django-twitter
